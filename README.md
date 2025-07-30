@@ -76,8 +76,8 @@ Carpack/
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/fivem-carpack-organizer.git
-cd fivem-carpack-organizer
+git clone https://github.com/havoc283/HavocCarPacker.git
+cd HavocCarPacker
 ```
 
 run the `install_packages.bat`
