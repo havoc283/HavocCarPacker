@@ -98,14 +98,6 @@ Run the `run_app.bat` file
 
 After running, check the new `[OUTPUT]/` directory for your neatly organized files.
 
-## 🧑‍💻 Contributing
-
-Pull requests are welcome! Feel free to fork and modify this for more advanced workflows (e.g., automatic meta merging or fxmanifest generation).
-
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🙋‍♂️ Support
-
-For any issues or suggestions, open an [Issue](https://github.com/yourusername/fivem-carpack-organizer/issues) or contact me directly on GitHub.
