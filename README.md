@@ -61,7 +61,8 @@ Carpack/
 - Prevents overwriting with isolated subfolders per vehicle
 
 
-# [Example](https://jumpshare.com/s/y7c6nl61AyRwp7sDnjrQ)
+# [![Example](path/to/thumbnail.png)](https://jumpshare.com/embed/y7c6nl61AyRwp7sDnjrQ)
+
 
 
 ## 🚀 How to Use
